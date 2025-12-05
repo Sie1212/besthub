@@ -714,7 +714,7 @@ background-image: url(IMG_5800.png);
 background-size: 1500px;
 background-position-x: ;
 background-position-y:px ;
-background-image: url(IMG_5407.jpg);
+background-image: url(IMG_5407.JPG);
 width: 100%;
 justify-content: center;
 text-align: center;
@@ -807,7 +807,7 @@ border-radius: 30px;
 .conmain {
 	width: 100%;
 	margin-top: 100px;
-	Background-image: url(IMG_5404.jpg ) ;
+	Background-image: url(IMG_5404.JPG) ;
 	background-repeat: no-repeat;
 	background-size: 100%;
 	padding: 130px 0;
@@ -967,3 +967,4 @@ border-radius: 30px;
 	font-size: 2rem;
 
 }
+
