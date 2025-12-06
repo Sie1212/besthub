@@ -532,10 +532,10 @@ footer p {
 }
 
 footer .fa {
-	font-size: 1rem;
+	font-size: 1.5rem;
 }
 
-footer .fa a {
+footer .fab a {
 	color: #fff;
 }
 
@@ -972,6 +972,7 @@ border-radius: 30px;
 	font-size: 2rem;
 
 }
+
 
 
 
