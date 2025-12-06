@@ -173,6 +173,7 @@ header {
 	margin: auto;
 	padding: 0 40px;
 	display: none ;
+	border-radius:40px;
 }
 
 .sidetext p a {
@@ -967,4 +968,5 @@ border-radius: 30px;
 	font-size: 2rem;
 
 }
+
 
